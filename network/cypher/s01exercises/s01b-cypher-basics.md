@@ -1,11 +1,5 @@
 # Neo4j e Cypher - Conceitos Básicos
 
-Entre no Sandbox do Cypher: https://neo4j.com/
-
-Há uma opção de se usar o Neo4j online através de um sandbox em: https://neo4j.com/sandbox/
-
-Crie uma conta e abra um `Blank Sandbox`. Abaixo segue um tutorial a ser executado nesse sandbox.
-
 ## `CREATE`
 
 Cria um nó e/ou aresta.
